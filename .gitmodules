@@ -1,0 +1,9 @@
+[submodule "single-thread"]
+	path = single-thread
+	url = https://github.com/miermontoto/single-thread
+[submodule "multi-thread"]
+	path = multi-thread
+	url = https://github.com/miermontoto/multi-thread
+[submodule "simd"]
+	path = simd
+	url = https://github.com/miermontoto/simd
