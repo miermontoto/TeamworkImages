@@ -9,7 +9,7 @@ Trabajo en grupo desarrollado en dos fases:
 ## Repositorios
 - [single-thread](https://github.com/miermontoto/single-thread)
 - [multi-thread](https://github.com/miermontoto/multi-thread)
-- [simd-thread](https://github.com/miermontoto/simd-thread)
+- [simd](https://github.com/miermontoto/simd)
 
 ## Software utilizado
 Visual Studio Code, git, bash, zsh, Debian
