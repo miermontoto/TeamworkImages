@@ -20,7 +20,7 @@ Visual Studio Code, git, bash, zsh, Debian
 - [Enunciado general del trabajo](https://github.com/miermontoto/TeamworkImages/blob/master/resources/Enunciado.png)
 - [Enlace de descarga original de las imágenes de prueba utilizadas](http://rigel.atc.uniovi.es/grado/2ac/2021-teamwork-images.tar.gz)
 - [Máquina virtual utilizada (mega.nz)](https://mega.nz/file/xQIygDha#zsdsJ9Vd4NL3yMKz6DXxsoLFYV2LW0q9HEYi9WvukgQ)
-- [Imágenes utilizadas sobre las que operar](https://github.com/miermontoto/TeamworkImages/assets)
+- [Imágenes utilizadas sobre las que operar](https://github.com/miermontoto/TeamworkImages/tree/master/assets)
 - [PDF sobre algoritmos por grupos](https://github.com/miermontoto/TeamworkImages/blob/master/resources/Algoritmos%20Tratamientos%20de%20Im%C3%A1genes.pdf)
 - [Repositorio original de la primera parte](https://bitbucket.org/2acuniovi/2021-single-thread/src/master/)
 - [Repositorio original de la segunda parte (SIMD)](https://bitbucket.org/2acuniovi/2021-simd/src/master/)
