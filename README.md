@@ -14,6 +14,7 @@ Trabajo en grupo desarrollado en dos fases:
 ## Software utilizado
 Visual Studio Code, git, bash, zsh, Debian
 
+### [Versión entregada](60cfd7f0376e8c64620937918725531501f02f1f)
 ### Nota final: ?
 
 ## Recursos
