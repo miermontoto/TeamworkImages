@@ -14,7 +14,7 @@ Trabajo en grupo desarrollado en dos fases:
 ## Software utilizado
 Visual Studio Code, git, bash, zsh, Debian
 
-### [Versión entregada](https://github.com/miermontoto/TeamworkImages/tree/60cfd7f0376e8c64620937918725531501f02f1f)
+### [Versión entregada](https://github.com/miermontoto/TeamworkImages/tree/6d5bc2388991e6a509882f00c92c5d99abc31e90)
 ### Nota final: ?
 
 ## Recursos
